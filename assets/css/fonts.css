@@ -1,0 +1,93 @@
+/**********FuturaPT**********/
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTLight.otf);
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTBook.otf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTMedium.otf);
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTDemi.otf);
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTHeavy.otf);
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTBold.otf);
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "FuturaPT";
+    src: url(../fonts/FuturaPT/FuturaPTExtraBold.otf);
+    font-style: normal;
+    font-weight: 900;
+}
+/**********Proxima Nova**********/
+@font-face {
+    font-family: "ProximaNova";
+    src: url(../fonts/ProximaNova/ProximaNovaThin.otf);
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "ProximaNova";
+    src: url(../fonts/ProximaNova/ProximaNovaRegular.otf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProximaNova";
+    src: url(../fonts/ProximaNova/ProximaNovaBold.otf);
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ProximaNova";
+    src: url(../fonts/ProximaNova/ProximaNovaExtraBold.otf);
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ProximaNova";
+    src: url(../fonts/ProximaNova/ProximaNovaBlack.otf);
+    font-style: normal;
+    font-weight: 800;
+}
+/**********Proxima Nova Alternate**********/
+@font-face {
+    font-family: "ProximaNovaAlt";
+    src: url(../fonts/ProximaNova/ProximaNovaAltThin.otf);
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "ProximaNovaAlt";
+    src: url(../fonts/ProximaNova/ProximaNovaAltLight.otf);
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ProximaNovaAlt";
+    src: url(../fonts/ProximaNova/ProximaNovaAltBold.otf);
+    font-style: normal;
+    font-weight: 700;
+}
