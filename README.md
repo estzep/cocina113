@@ -1,2 +1,7 @@
-# cocina113
-Cocina 113 website (archived client project, PHP/CSS/JS)
+# Cocina 113
+
+Old client website, PHP/CSS/JS.
+
+Design: Iñigo Zepeda (UI/UX). Frontend: Diego Zepeda.
+
+Archived project, not maintained.
